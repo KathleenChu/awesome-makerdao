@@ -15,8 +15,8 @@ DaiとCDPプラットフォームは、インドの農村部からウォール�
 ## 基本
 - [Dai Staiblecoinシステム（Whitepaper和訳）by Makerチーム](https://makerdao.com/whitepaper/Dai-Whitepaper-Dec17-ja.pdf) 
 - [MakerDAOとStablecoin by Individua1](https://individua1.net/category/cryptocurrency/series/makerdao-and-stablecoin/)
-- [＜仕組み解説＞Guidelines of MakerDAO&dai by Watata Crypto Medium](https://medium.com/@souta.watatata/makerdao-dai)
-- [アンチMakerDAO&DAIになって課題を整理してみる by Watata Crypto Medium](https://medium.com/@souta.watatata/アンチmakerdao-daiになって課題を整理してみる)
+- [＜仕組み解説＞Guidelines of MakerDAO&dai by Watata Crypto Medium](https://medium.com/@souta.watatata/makerdao-dai%E3%82%AC%E3%82%A4%E3%83%89-10357920337f)
+- [アンチMakerDAO&DAIになって課題を整理してみる by Watata Crypto Medium](https://medium.com/@souta.watatata/%E3%82%A2%E3%83%B3%E3%83%81makerdao-dai%E3%81%AB%E3%81%AA%E3%81%A3%E3%81%A6%E8%AA%B2%E9%A1%8C%E3%82%92%E6%95%B4%E7%90%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%8B-81dd216e54b7)
 
 ## エンジニア向け
 - [Dai Stablecoinシステム（Purplepaper和訳※エンジニア向け）by Lotz84](https://github.com/lotz84/dai-in-jp/blob/master/purple-paper.md)
